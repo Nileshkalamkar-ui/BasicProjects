@@ -19,3 +19,4 @@ I made this project just for practice while learning frontend development.
 
 It helped me understand how to create layouts using HTML and CSS, use Flexbox, and make a website responsive using media queries.
 
+http://127.0.0.1:5500/index.html
